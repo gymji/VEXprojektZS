@@ -3,7 +3,7 @@ body {
     color: rgb(183, 183, 186);
     font-family: Arial, sans-serif;
     font-size:large;
-    background: rgb(70, 69, 69);
+    background: rgb(46, 46, 46);
 }
 h1 {
     color: rgb(244, 242, 240);
@@ -19,8 +19,11 @@ p.middle {
     background: white;
 }
 
-ul {
+ul,ol {
     font-size: large;
+}
+li {
+    font-size: x-large;
 }
 
 a {
@@ -28,17 +31,6 @@ a {
     text-decoration: none;
 }
 a:hover {
-    background: yellowgreen;
-}
-#cas {
-    color:darkgreen;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: xx-large;
-    font-weight: bold;
-    text-shadow: lightgray;
-    padding: 1ex;
-}
-input {
-    margin-top: 1em;
-    margin-bottom: 1em;
+    color: black;
+    background: rgb(228, 235, 138);
 }
