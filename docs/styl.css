@@ -6,11 +6,11 @@ body {
     background: rgb(70, 69, 69);
 }
 h1 {
-    color: rgb(143, 84, 12);
+    color: rgb(244, 242, 240);
     text-decoration: underline;
 }
 h1.mujnadpis {
-    color: rgb(224, 129, 12);
+    color: rgb(229, 221, 212);
     text-decoration: none;
 
 }
@@ -18,6 +18,11 @@ p.middle {
     text-align: center;
     background: white;
 }
+
+ul {
+    font-size: large;
+}
+
 a {
     color: red;
     text-decoration: none;
